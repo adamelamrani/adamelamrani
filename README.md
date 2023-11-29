@@ -15,16 +15,12 @@
 </div>
 
 <table align="center" border="0" width="40%">
-    <td width="50%">
-      <table align="center" width="100%">
-        <tr align="center">
-          <td align="start">Welcome to my GitHub's profile! I am a fullstack developer from Spain, currently living in Valencia. My baby steps in the world of programming started in 2022, when I decided to join a programming Bootcamp.
-            That was for me a new beginning in my life, and I will always be grateful for everything that I've learned there.
-            Now that I have already a couple of years of working experience, I decided to start a degree in Techniques for Software Application Development in the <a href="https://uoc.edu" target="_blank">Open University of Catalonia (UOC)</a>, to keep learning and improving my skills.</td>
-          <td align="start" width="200px"><img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" alt="Programmer coding" height="200"/></td>
-        </tr>
-      </table>
-    </td>
+  <tr align="center">
+    <td align="start">Welcome to my GitHub's profile! I am a fullstack developer from Spain, currently living in Valencia. My baby steps in the world of programming started in 2022, when I decided to join a programming Bootcamp.
+      That was for me a new beginning in my life, and I will always be grateful for everything that I've learned there.
+      Now that I have already a couple of years of working experience, I decided to start a degree in Techniques for Software Application Development in the <a href="https://uoc.edu" target="_blank">Open University of Catalonia (UOC)</a>, to keep learning and improving my skills.</td>
+    <td align="start" width="200px"><img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" alt="Programmer coding" height="200"/></td>
+  </tr>
 </table>
 
 <div align="center">
