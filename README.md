@@ -4,7 +4,7 @@
   <h1>Hi, I'm Adam El Amrani Colina!</h1>
 </div>
 
-<p>
+<div>
   <a href="https://linkedin.com/in/adam-elamrani">
     <img align="bottom" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="25px"  alt="LinkedIn Badge"/>
   </a>
@@ -12,16 +12,9 @@
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" height="25px" alt="Gmail Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=adamelamrani&style=flat-square&color=blue" height="25px"  alt=""/>
-</p>
+</div>
 
-<table align="center" width="100%">
-
-  <tr align="center">
-    <td align="start">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs"/>
-      </a>
-    </td>
+<table align="center" border="0" width="40%">
     <td width="50%">
       <table align="center" width="100%">
         <tr align="center">
@@ -32,8 +25,11 @@
         </tr>
       </table>
     </td>
-  </tr>
 </table>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages from Adam" title="Top Languages" />
+</div>
 
 <!--
 **adamelamrani/adamelamrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
