@@ -14,17 +14,22 @@
   <img src="https://komarev.com/ghpvc/?username=adamelamrani&style=flat-square&color=blue" height="25px"  alt=""/>
 </div>
 
-<table align="center" border="0" width="40%">
-  <tr align="center">
-    <td align="start">Welcome to my GitHub's profile! I am a fullstack developer from Spain, currently living in Valencia. My baby steps in the world of programming started in 2022, when I decided to join a programming Bootcamp.
+<div align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" alt="Programmer coding" height="200"/>
+</div>
+
+### About me
+
+<p>
+  Welcome to my GitHub's profile! I am a fullstack developer from Spain, currently living in Valencia. My baby steps in the world of programming started in 2022, when I decided to join a programming Bootcamp.
       That was for me a new beginning in my life, and I will always be grateful for everything that I've learned there.
-      Now that I have already a couple of years of working experience, I decided to start a degree in Techniques for Software Application Development in the <a href="https://uoc.edu" target="_blank">Open University of Catalonia (UOC)</a>, to keep learning and improving my skills.</td>
-    <td align="start" width="200px"><img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" alt="Programmer coding" height="200"/></td>
-  </tr>
-</table>
+      Now that I have already a couple of years of working experience, I decided to start a degree in Techniques for Software Application Development in the <a href="https://uoc.edu" target="_blank">Open University of Catalonia (UOC)</a>, to keep learning and improving my skills.
+</p>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages from Adam" title="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamelamrani&layout=compact&theme=vision-friendly-dark" alt="Top Languages from Adam" title="Top Languages" />
 </div>
 
 <!--
@@ -40,4 +45,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<table align="center" border="0" width="40%">
+  <tr align="center">
+    <td align="start">Welcome to my GitHub's profile! I am a fullstack developer from Spain, currently living in Valencia. My baby steps in the world of programming started in 2022, when I decided to join a programming Bootcamp.
+      That was for me a new beginning in my life, and I will always be grateful for everything that I've learned there.
+      Now that I have already a couple of years of working experience, I decided to start a degree in Techniques for Software Application Development in the <a href="https://uoc.edu" target="_blank">Open University of Catalonia (UOC)</a>, to keep learning and improving my skills.</td>
+    <td align="start" width="200px"><img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" alt="Programmer coding" height="200"/></td>
+  </tr>
+</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages from Adam" title="Top Languages" />
+</div>
   -->
