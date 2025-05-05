@@ -22,8 +22,8 @@ a      That was for me a new beginning in my life, and I will always be grateful
 </p>
 
 <ul align="left">
-  <li>🔭 I’m currently working on a small personal fullstack application</li>
-  <li>🌱 I’m currently learning C++</li>
+  <li>🔭 I’m currently developing a micro SaaS</li>
+  <li>🌱 Trying to learn fundamental stuff about Cyber Security</li>
   <li>💬 Ask me about React! It is so far my favourite Library for Front end</li>
   <li>⚡ Fun fact: The Horde is the best faction</li>
 </ul>
@@ -35,7 +35,7 @@ a      That was for me a new beginning in my life, and I will always be grateful
 <p align="start">My hobbies are:</p>
 <ul align="left">
   <li>
-    Playing videogames 🎮 (World of Warcraft is my favourite Videoggame)
+    Playing videogames 🎮 (World of Warcraft is my favourite Videogame)
   </li>
   <li>Watching series and movies 🎞️</li>
   <li>Reading books 📚 (let's be real, read mangas)</li>
