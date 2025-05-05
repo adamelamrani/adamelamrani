@@ -18,7 +18,7 @@
   <p align="left">
   Welcome to my GitHub's profile! I am a fullstack developer from Spain, currently living in Valencia. My baby steps in the world of programming started in 2022, when I decided to join a programming Bootcamp.
 a      That was for me a new beginning in my life, and I will always be grateful for everything that I've learned there.
-      Now that I have already a couple of years of working experience, I decided to start a degree in Techniques for Software Application Development in the <a href="https://uoc.edu" target="_blank">Open University of Catalonia (UOC)</a>, to keep learning and improving my skills.
+      Now that I have already a couple of years of working experience, my curiosity in Ciber Security has increased and I am currently learning fundamental stuff.
 </p>
 
 <ul align="left">
